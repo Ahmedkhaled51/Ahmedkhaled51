@@ -1,0 +1,134 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║                           CURRICULUM VITAE                          ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+AHMED KHALED ABD EL FATAH YOUNIS
+Business Analytics Graduate | Data Scientist | Machine Learning Engineer
+
+CONTACT INFORMATION
+Email: ahmedkhaled5186@gmail.com
+Phone: +20 109 646 4739
+LinkedIn: https://www.linkedin.com/in/ahmedkhaled04/
+GitHub: https://github.com/Ahmedkhaled51
+Born: January 13, 2004
+
+PROFESSIONAL SUMMARY
+Detail-oriented and analytically driven Business Analytics graduate with strong expertise in data science, machine learning, and business intelligence. Experienced in Python, R, Power BI, and various statistical tools with a proven track record in competitive programming and international recognition. Committed to continuous learning and professional development with excellent communication and collaboration skills.
+
+EDUCATION
+Bachelor's Degree in Business Analytics
+College of Economics, Management & Business Technology, Egyptian Russian University
+September 2021 – June 2025 | Cairo, Egypt
+CGPA: 2.82 / 4.0
+
+High School Diploma
+2018 - 2021
+Graduated with honors and participated in various science competitions.
+
+PROFESSIONAL EXPERIENCE
+
+International Olympiad of Financial Security Representative
+Russia | September 28 - October 5, 2024
+• Represented Egypt among 600 participants from 36 countries
+• Earned a gold medal in Economics
+• Enhanced understanding of economics, teamwork, and cross-cultural collaboration
+
+Cloud Native Intern
+Vodafone | September 2024
+• Learned to use OpenShift for managing containerized applications
+• Worked with Linux to support cloud systems
+• Gained experience with Docker and VMware
+
+Financial Analysis Training
+EgyptAir | July - August 2024
+• Analyzed financial data using SAP software
+• Gained business insights in the airline industry
+
+Business Intelligence Intern
+ACT | August - September 2023
+• Worked on BI projects, improving skills in data analysis and reporting
+• Improved communication and time management skills
+
+University Youth Parliament Member
+Egyptian Russian University | 2023 – 2024
+• Developed strong public speaking, teamwork, and problem-solving skills
+• Actively contributed to collaborative initiatives and discussions within the university
+
+Manager - University Entrepreneurship Club
+Egyptian Russian University | 2022 – 2023
+• Managed club activities and organized events promoting entrepreneurship
+• Worked as photographer and video editor for event content and social media
+• Planned and executed marketing strategies to boost engagement
+• Developed creative ideas for campaigns and club initiatives
+
+TECHNICAL SKILLS
+
+Programming Languages:
+• Python (90% proficiency)
+• C++ (80% proficiency)
+• R (70% proficiency)
+
+Data Analysis & Business Intelligence:
+• Power BI (75% proficiency)
+• SPSS (70% proficiency)
+• Minitab (70% proficiency)
+• Microsoft Office (100% proficiency)
+
+Software & Hardware:
+• Software & Hardware troubleshooting (100% proficiency)
+
+KEY PROJECTS
+
+FRAUDX - Credit Card Fraud Detection
+AI-powered credit card fraud detection system combining ML/DL models with explainable AI.
+GitHub: https://github.com/Ahmedkhaled51/FRAUDX-Intelligent-Credit-Card-Fraud-Detection
+
+Resume Categorizing System
+Automated resume classification using ML/DL models (KNN, SVC, Random Forest, LSTM) with Streamlit interface.
+GitHub: https://github.com/Ahmedkhaled51/Resume-categorizing
+
+NHANES Health Data Analysis
+Analysis of the National Health and Nutrition Examination Survey (NHANES) data using Python.
+GitHub: https://github.com/Ahmedkhaled51/predictive-health-nhanes
+
+Pregnancy Data Analysis
+Comprehensive analysis of pregnancy data to predict trends and outcomes using statistical methods.
+GitHub: https://github.com/Ahmedkhaled51/pregnancy-data-analysis
+
+Power BI Dashboards
+Three comprehensive dashboards created using Power BI, Power Query, and Power Pivot.
+GitHub: https://github.com/Ahmedkhaled51/Dashboard
+
+Melbourne Housing Market Analysis
+Web scraping and analysis of housing data using R, sourced from Domain.com.au.
+
+ACHIEVEMENTS & RECOGNITION
+
+Research Paper Presentation
+Presented "Predicting Plane Delays Using Machine Learning" at Cairo University's Statistics Conference as the youngest team, showcasing AI impact in aviation.
+
+Egyptian Collegiate Programming Contest (ECPC)
+Ranked 64th in Egypt and 2nd in university. Solved complex programming problems in C++ with team collaboration under tight deadlines.
+
+Gold Medal - International Olympiad of Financial Security
+Earned gold medal in Economics representing Egypt among 600 participants from 36 countries in Russia (2024).
+
+SERVICES OFFERED
+
+Data Analysis & Visualization:
+• Power BI Development
+• Excel Data Analysis
+• Python Data Analysis
+• R Statistical Analysis
+
+Machine Learning & AI:
+• Predictive Modeling
+• Classification Systems
+• Data Preprocessing
+• Model Development
+
+
+══════════════════════════════════════════════════════════════════════
+Generated on: 10/26/2025
+Format: Text-based PDF alternative
+══════════════════════════════════════════════════════════════════════
